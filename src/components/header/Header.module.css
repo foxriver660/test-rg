@@ -1,0 +1,17 @@
+.header {
+	background-color: #f4f4f4;
+	padding: 20px;
+	text-align: center;
+}
+.btn {
+	background-color: #70c2cb;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.btn:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	transform: scale(1.02);
+}
